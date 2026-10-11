@@ -1,0 +1,265 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VEZWxpYQ/c21hcG9ja2VEZWxpYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Delia =====
+[1]Delia       |08:38:24 | 11-10-2026| login OK @deliasbrn | score=900 rank=6540
+[1]Delia       |08:38:24 | 11-10-2026| serverTime=2026-10-11T08:38:24.000Z local=2026-10-11T08:38:24.090Z
+--> [1]Delia menjalankan: Claim Daily
+[1]Delia       |08:38:25 | 11-10-2026| daily: sudah klaim (already=true) score=900
+--> [1]Delia menjalankan: Auto All Tasks (3 pending)
+[1]Delia       |08:38:27 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109201330928064447
+[1]Delia       |08:38:27 | 11-10-2026| delay 10s...
+[1]Delia       |08:38:46 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109201628540375707
+[1]Delia       |08:38:46 | 11-10-2026| delay 10s...
+[1]Delia       |08:39:00 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109201621133906556
+[1]Delia       |08:39:00 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Delia       |08:39:02 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/deliasbrn/status/2109201585057527455
+--> [1]Delia menjalankan: Watch Anime
+[1]Delia       |08:39:03 | 11-10-2026| watch: 3 video belum completed: oshi-first-journey,ep4,ep5
+[1]Delia       |08:39:03 | 11-10-2026| watch [1/3] farming oshi-first-journey...
+[1]Delia       |08:39:06 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Delia       |08:39:13 | 11-10-2026| watch oshi-first-journey: 7% (6.36/87.00s)
+[1]Delia       |08:39:21 | 11-10-2026| watch oshi-first-journey: 14% (12.64/87.00s)
+[1]Delia       |08:39:27 | 11-10-2026| watch oshi-first-journey: 22% (19.16/87.00s)
+[1]Delia       |08:39:35 | 11-10-2026| watch oshi-first-journey: 28% (25.02/87.00s)
+[1]Delia       |08:39:42 | 11-10-2026| watch oshi-first-journey: 36% (31.80/87.00s)
+[1]Delia       |08:39:51 | 11-10-2026| watch oshi-first-journey: 44% (38.43/87.00s)
+[1]Delia       |08:39:59 | 11-10-2026| watch oshi-first-journey: 53% (46.59/87.00s)
+[1]Delia       |08:40:07 | 11-10-2026| watch oshi-first-journey: 61% (53.71/87.00s)
+[1]Delia       |08:40:19 | 11-10-2026| watch oshi-first-journey: 70% (61.16/87.00s)
+[1]Delia       |08:40:26 | 11-10-2026| watch oshi-first-journey: 79% (69.11/87.00s)
+[1]Delia       |08:40:33 | 11-10-2026| watch oshi-first-journey: 86% (75.61/87.00s)
+[1]Delia       |08:40:41 | 11-10-2026| watch oshi-first-journey: 93% (81.75/87.00s)
+[1]Delia       |08:40:41 | 11-10-2026| watch oshi-first-journey: COMPLETED (81.75/87.00s)
+[1]Delia       |08:40:46 | 11-10-2026| watch [2/3] farming ep4...
+[1]Delia       |08:40:47 | 11-10-2026| watch ep4: mulai dari 0 (record 229.1s diabaikan)
+[1]Delia       |08:40:52 | 11-10-2026| watch ep4: 64% (229.11/353.00s)
+[1]Delia       |08:40:59 | 11-10-2026| watch ep4: 64% (229.11/353.00s)
+[1]Delia       |08:41:06 | 11-10-2026| watch ep4: 64% (229.11/353.00s)
+[1]Delia       |08:41:14 | 11-10-2026| watch ep4: 64% (229.11/353.00s)
+[1]Delia       |08:41:23 | 11-10-2026| watch ep4: 64% (229.11/353.00s)
+[1]Delia       |08:41:33 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:41:40 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:41:49 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:41:55 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:42:01 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:42:07 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:42:14 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:42:22 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:42:34 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:42:41 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:42:47 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:42:56 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:43:03 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:43:09 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:43:16 | 11-10-2026| watch ep4: 64% (229.24/353.00s)
+[1]Delia       |08:43:23 | 11-10-2026| watch ep4: 65% (230.15/353.00s)
+[1]Delia       |08:43:31 | 11-10-2026| watch ep4: 65% (230.15/353.00s)
+[1]Delia       |08:43:38 | 11-10-2026| watch ep4: 65% (230.15/353.00s)
+[1]Delia       |08:43:47 | 11-10-2026| watch ep4: 65% (230.15/353.00s)
+[1]Delia       |08:43:55 | 11-10-2026| watch ep4: 65% (230.15/353.00s)
+[1]Delia       |08:44:03 | 11-10-2026| watch ep4: 65% (230.28/353.00s)
+[1]Delia       |08:44:11 | 11-10-2026| watch ep4: 65% (230.28/353.00s)
+[1]Delia       |08:44:22 | 11-10-2026| watch ep4: 65% (230.28/353.00s)
+[1]Delia       |08:44:29 | 11-10-2026| watch ep4: 65% (230.28/353.00s)
+[1]Delia       |08:44:36 | 11-10-2026| watch ep4: 65% (230.28/353.00s)
+[1]Delia       |08:44:43 | 11-10-2026| watch ep4: 65% (230.28/353.00s)
+[1]Delia       |08:44:50 | 11-10-2026| watch ep4: 65% (230.28/353.00s)
+[1]Delia       |08:44:57 | 11-10-2026| watch ep4: 65% (230.28/353.00s)
+[1]Delia       |08:45:04 | 11-10-2026| watch ep4: 65% (230.28/353.00s)
+[1]Delia       |08:45:12 | 11-10-2026| watch ep4: 66% (235.82/353.00s)
+[1]Delia       |08:45:20 | 11-10-2026| watch ep4: 68% (243.28/353.00s)
+[1]Delia       |08:45:29 | 11-10-2026| watch ep4: 70% (250.23/353.00s)
+[1]Delia       |08:45:35 | 11-10-2026| watch ep4: 72% (257.06/353.00s)
+[1]Delia       |08:45:42 | 11-10-2026| watch ep4: 74% (262.66/353.00s)
+[1]Delia       |08:45:49 | 11-10-2026| watch ep4: 76% (269.20/353.00s)
+[1]Delia       |08:45:57 | 11-10-2026| watch ep4: 78% (275.40/353.00s)
+[1]Delia       |08:46:06 | 11-10-2026| watch ep4: 80% (282.73/353.00s)
+[1]Delia       |08:46:13 | 11-10-2026| watch ep4: 82% (290.38/353.00s)
+[1]Delia       |08:46:22 | 11-10-2026| watch ep4: 83% (296.22/353.00s)
+[1]Delia       |08:46:28 | 11-10-2026| watch ep4: 86% (303.70/353.00s)
+[1]Delia       |08:46:35 | 11-10-2026| watch ep4: 87% (309.42/353.00s)
+[1]Delia       |08:46:42 | 11-10-2026| watch ep4: 89% (315.62/353.00s)
+[1]Delia       |08:46:50 | 11-10-2026| watch ep4: 91% (321.89/353.00s)
+[1]Delia       |08:46:50 | 11-10-2026| watch ep4: COMPLETED (321.89/353.00s)
+[1]Delia       |08:46:55 | 11-10-2026| watch [3/3] farming ep5...
+[1]Delia       |08:47:01 | 11-10-2026| watch ep5: 0% (0.00/396.00s)
+[1]Delia       |08:47:09 | 11-10-2026| watch ep5: 1% (7.83/396.00s)
+[1]Delia       |08:47:16 | 11-10-2026| watch ep5: 3% (15.07/396.00s)
+[1]Delia       |08:47:23 | 11-10-2026| watch ep5: 5% (21.39/396.00s)
+[1]Delia       |08:47:33 | 11-10-2026| watch ep5: 6% (27.46/396.00s)
+[1]Delia       |08:47:44 | 11-10-2026| watch ep5: 9% (36.47/396.00s)
+[1]Delia       |08:47:51 | 11-10-2026| watch ep5: 11% (45.09/396.00s)
+[1]Delia       |08:48:02 | 11-10-2026| watch ep5: 12% (51.18/396.00s)
+[1]Delia       |08:48:08 | 11-10-2026| watch ep5: 14% (58.16/396.00s)
+[1]Delia       |08:48:15 | 11-10-2026| watch ep5: 16% (64.22/396.00s)
+[1]Delia       |08:48:24 | 11-10-2026| watch ep5: 17% (70.27/396.00s)
+[1]Delia       |08:48:32 | 11-10-2026| watch ep5: 19% (77.79/396.00s)
+[1]Delia       |08:48:38 | 11-10-2026| watch ep5: 21% (84.02/396.00s)
+[1]Delia       |08:48:45 | 11-10-2026| watch ep5: 22% (89.63/396.00s)
+[1]Delia       |08:48:51 | 11-10-2026| watch ep5: 24% (95.74/396.00s)
+[1]Delia       |08:48:58 | 11-10-2026| watch ep5: 25% (101.35/396.00s)
+[1]Delia       |08:49:04 | 11-10-2026| watch ep5: 27% (107.08/396.00s)
+[1]Delia       |08:49:11 | 11-10-2026| watch ep5: 28% (112.69/396.00s)
+[1]Delia       |08:49:18 | 11-10-2026| watch ep5: 30% (119.22/396.00s)
+[1]Delia       |08:49:25 | 11-10-2026| watch ep5: 31% (125.65/396.00s)
+[1]Delia       |08:49:32 | 11-10-2026| watch ep5: 33% (131.50/396.00s)
+[1]Delia       |08:49:38 | 11-10-2026| watch ep5: 34% (137.59/396.00s)
+[1]Delia       |08:49:44 | 11-10-2026| watch ep5: 36% (143.34/396.00s)
+[1]Delia       |08:49:51 | 11-10-2026| watch ep5: 37% (148.97/396.00s)
+[1]Delia       |08:49:59 | 11-10-2026| watch ep5: 39% (155.43/396.00s)
+[1]Delia       |08:50:06 | 11-10-2026| watch ep5: 41% (162.45/396.00s)
+[1]Delia       |08:50:13 | 11-10-2026| watch ep5: 42% (168.77/396.00s)
+[1]Delia       |08:50:20 | 11-10-2026| watch ep5: 44% (175.02/396.00s)
+[1]Delia       |08:50:26 | 11-10-2026| watch ep5: 45% (180.87/396.00s)
+[1]Delia       |08:50:35 | 11-10-2026| watch ep5: 47% (186.48/396.00s)
+[1]Delia       |08:50:42 | 11-10-2026| watch ep5: 48% (193.43/396.00s)
+[1]Delia       |08:50:48 | 11-10-2026| watch ep5: 50% (199.64/396.00s)
+[1]Delia       |08:50:55 | 11-10-2026| watch ep5: 51% (205.60/396.00s)
+[1]Delia       |08:51:01 | 11-10-2026| watch ep5: 53% (211.21/396.00s)
+[1]Delia       |08:51:07 | 11-10-2026| watch ep5: 54% (216.93/396.00s)
+[1]Delia       |08:51:15 | 11-10-2026| watch ep5: 56% (222.54/396.00s)
+[1]Delia       |08:51:22 | 11-10-2026| watch ep5: 57% (229.14/396.00s)
+[1]Delia       |08:51:29 | 11-10-2026| watch ep5: 59% (235.78/396.00s)
+[1]Delia       |08:51:37 | 11-10-2026| watch ep5: 61% (241.80/396.00s)
+[1]Delia       |08:51:45 | 11-10-2026| watch ep5: 62% (249.23/396.00s)
+[1]Delia       |08:51:52 | 11-10-2026| watch ep5: 64% (256.67/396.00s)
+[1]Delia       |08:52:01 | 11-10-2026| watch ep5: 66% (262.88/396.00s)
+[1]Delia       |08:52:09 | 11-10-2026| watch ep5: 68% (271.16/396.00s)
+[1]Delia       |08:52:16 | 11-10-2026| watch ep5: 70% (277.83/396.00s)
+[1]Delia       |08:52:22 | 11-10-2026| watch ep5: 71% (283.83/396.00s)
+[1]Delia       |08:52:30 | 11-10-2026| watch ep5: 73% (289.46/396.00s)
+[1]Delia       |08:52:37 | 11-10-2026| watch ep5: 74% (296.35/396.00s)
+[1]Delia       |08:52:44 | 11-10-2026| watch ep5: 76% (302.80/396.00s)
+[1]Delia       |08:52:52 | 11-10-2026| watch ep5: 77% (308.56/396.00s)
+[1]Delia       |08:52:59 | 11-10-2026| watch ep5: 79% (316.01/396.00s)
+[1]Delia       |08:53:07 | 11-10-2026| watch ep5: 81% (322.31/396.00s)
+[1]Delia       |08:53:13 | 11-10-2026| watch ep5: 83% (329.32/396.00s)
+[1]Delia       |08:53:20 | 11-10-2026| watch ep5: 84% (335.35/396.00s)
+[1]Delia       |08:53:27 | 11-10-2026| watch ep5: 86% (341.53/396.00s)
+[1]Delia       |08:53:33 | 11-10-2026| watch ep5: 87% (347.64/396.00s)
+[1]Delia       |08:53:41 | 11-10-2026| watch ep5: 89% (353.27/396.00s)
+[1]Delia       |08:53:47 | 11-10-2026| watch ep5: 90% (359.61/396.00s)
+[1]Delia       |08:53:47 | 11-10-2026| watch ep5: COMPLETED (359.61/396.00s)
+--> [1]Delia menjalankan: Read Article
+[1]Delia       |08:53:48 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Delia       |08:53:49 | 11-10-2026| mint eligibility: {"userId":"1886502032175161344","youtube":{"url":"https://www.youtube.com/@deliasbrn","status":"submitted","revision":"5ac51880-888b-4206-bb9f-e83738be8347","submittedAt":1791680809,"reviewedAt":17916
+[1]Delia       |08:53:49 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Delia menjalankan: Quiz Anime
+[1]Delia       |08:53:49 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Delia       |08:53:49 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Delia       |08:53:49 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Delia       |08:53:52 | 11-10-2026| quiz ep4: BENAR (3) +10 poin
+[1]Delia       |08:53:57 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
+[1]Delia       |08:54:00 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Delia menjalankan: Music Missions (realtime, bisa lama!)
+[1]Delia       |08:54:04 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Delia       |08:54:15 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0054/153s)
+[1]Delia       |08:54:29 | 11-10-2026| music "ゆっくり帰ろう": 12% (19.0413/153s)
+[1]Delia       |08:54:42 | 11-10-2026| music "ゆっくり帰ろう": 20% (31.1616/153s)
+[1]Delia       |08:54:57 | 11-10-2026| music "ゆっくり帰ろう": 28% (43.1676/153s)
+[1]Delia       |08:55:09 | 11-10-2026| music "ゆっくり帰ろう": 36% (56.3103/153s)
+[1]Delia       |08:55:21 | 11-10-2026| music "ゆっくり帰ろう": 44% (67.60979999999999/153s)
+[1]Delia       |08:55:33 | 11-10-2026| music "ゆっくり帰ろう": 51% (78.4557/153s)
+[1]Delia       |08:55:48 | 11-10-2026| music "ゆっくり帰ろう": 58% (89.21069999999999/153s)
+[1]Delia       |08:56:01 | 11-10-2026| music "ゆっくり帰ろう": 67% (102.75569999999999/153s)
+[1]Delia       |08:56:13 | 11-10-2026| music "ゆっくり帰ろう": 74% (114.46919999999999/153s)
+[1]Delia       |08:56:25 | 11-10-2026| music "ゆっくり帰ろう": 81% (124.93709999999999/153s)
+[1]Delia       |08:56:25 | 11-10-2026| music "ゆっくり帰ろう": selesai 124.93709999999999s
+[1]Delia       |08:56:28 | 11-10-2026| music memutar "うたかた" (185s)...
+[1]Delia       |08:56:39 | 11-10-2026| music "うたかた": 4% (9.0063/185s)
+[1]Delia       |08:56:51 | 11-10-2026| music "うたかた": 10% (18.9045/185s)
+[1]Delia       |08:57:02 | 11-10-2026| music "うたかた": 16% (29.819699999999997/185s)
+[1]Delia       |08:57:13 | 11-10-2026| music "うたかた": 21% (39.7224/185s)
+[1]Delia       |08:57:24 | 11-10-2026| music "うたかた": 26% (49.6125/185s)
+[1]Delia       |08:57:38 | 11-10-2026| music "うたかた": 32% (59.605199999999996/185s)
+[1]Delia       |08:57:50 | 11-10-2026| music "うたかた": 38% (71.5059/185s)
+[1]Delia       |08:58:02 | 11-10-2026| music "うたかた": 44% (82.467/185s)
+[1]Delia       |08:58:17 | 11-10-2026| music "うたかた": 50% (93.2481/185s)
+[1]Delia       |08:58:30 | 11-10-2026| music "うたかた": 57% (106.5663/185s)
+[1]Delia       |08:58:41 | 11-10-2026| music "うたかた": 64% (118.7082/185s)
+[1]Delia       |08:58:52 | 11-10-2026| music "うたかた": 69% (128.61180000000002/185s)
+[1]Delia       |08:59:07 | 11-10-2026| music "うたかた": 74% (138.51090000000002/185s)
+[1]Delia       |08:59:18 | 11-10-2026| music "うたかた": 81% (151.53480000000002/185s)
+[1]Delia       |08:59:18 | 11-10-2026| music "うたかた": selesai 151.53480000000002s
+[1]Delia       |08:59:21 | 11-10-2026| music memutar "ぬくもり" (188s)...
+[1]Delia       |08:59:32 | 11-10-2026| music "ぬくもり": 4% (9.0063/188s)
+[1]Delia       |08:59:43 | 11-10-2026| music "ぬくもり": 10% (18.9486/188s)
+[1]Delia       |08:59:59 | 11-10-2026| music "ぬくもり": 15% (28.854/188s)
+[1]Delia       |09:00:10 | 11-10-2026| music "ぬくもり": 22% (43.1325/188s)
+[1]Delia       |09:00:22 | 11-10-2026| music "ぬくもり": 28% (53.109/188s)
+[1]Delia       |09:00:35 | 11-10-2026| music "ぬくもり": 33% (63.432/188s)
+[1]Delia       |09:00:46 | 11-10-2026| music "ぬくもり": 40% (75.4848/188s)
+[1]Delia       |09:00:57 | 11-10-2026| music "ぬくもり": 45% (85.39200000000001/188s)
+[1]Delia       |09:01:08 | 11-10-2026| music "ぬくもり": 50% (95.32440000000001/188s)
+[1]Delia       |09:01:21 | 11-10-2026| music "ぬくもり": 55% (105.2262/188s)
+[1]Delia       |09:01:33 | 11-10-2026| music "ぬくもり": 62% (117.2115/188s)
+[1]Delia       |09:01:45 | 11-10-2026| music "ぬくもり": 68% (127.9521/188s)
+[1]Delia       |09:01:57 | 11-10-2026| music "ぬくもり": 73% (138.5874/188s)
+[1]Delia       |09:02:08 | 11-10-2026| music "ぬくもり": 79% (149.0976/188s)
+[1]Delia       |09:02:20 | 11-10-2026| music "ぬくもり": 84% (159.2037/188s)
+[1]Delia       |09:02:21 | 11-10-2026| music "ぬくもり": selesai 159.2037s
+[1]Delia       |09:02:24 | 11-10-2026| music memutar "桃色の頃" (213s)...
+[1]Delia       |09:02:38 | 11-10-2026| music "桃色の頃": 4% (9.0054/213s)
+[1]Delia       |09:02:49 | 11-10-2026| music "桃色の頃": 10% (21.5289/213s)
+[1]Delia       |09:03:03 | 11-10-2026| music "桃色の頃": 15% (32.2002/213s)
+[1]Delia       |09:03:14 | 11-10-2026| music "桃色の頃": 20% (44.432100000000005/213s)
+[1]Delia       |09:03:27 | 11-10-2026| music "桃色の頃": 25% (54.35730000000001/213s)
+[1]Delia       |09:03:39 | 11-10-2026| music "桃色の頃": 31% (66.38220000000001/213s)
+[1]Delia       |09:03:50 | 11-10-2026| music "桃色の頃": 36% (76.72050000000002/213s)
+[1]Delia       |09:04:01 | 11-10-2026| music "桃色の頃": 40% (86.74200000000002/213s)
+[1]Delia       |09:04:12 | 11-10-2026| music "桃色の頃": 45% (96.64290000000003/213s)
+[1]Delia       |09:04:23 | 11-10-2026| music "桃色の頃": 50% (106.74810000000002/213s)
+[1]Delia       |09:04:34 | 11-10-2026| music "桃色の頃": 54% (116.66070000000002/213s)
+[1]Delia       |09:04:45 | 11-10-2026| music "桃色の頃": 59% (126.56340000000002/213s)
+[1]Delia       |09:04:59 | 11-10-2026| music "桃色の頃": 64% (136.4976/213s)
+[1]Delia       |09:05:14 | 11-10-2026| music "桃色の頃": 69% (148.9752/213s)
+[1]Delia       |09:05:28 | 11-10-2026| music "桃色の頃": 76% (162.3861/213s)
+[1]Delia       |09:05:42 | 11-10-2026| music "桃色の頃": 82% (175.2759/213s)
+[1]Delia       |09:05:46 | 11-10-2026| music "桃色の頃": selesai 175.2759s
+[1]Delia       |09:05:50 | 11-10-2026| music memutar "記憶の名前" (224s)...
+[1]Delia       |09:06:05 | 11-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Delia       |09:06:20 | 11-10-2026| music "記憶の名前": 9% (22.3749/224s)
+[1]Delia       |09:06:32 | 11-10-2026| music "記憶の名前": 15% (35.7606/224s)
+[1]Delia       |09:06:44 | 11-10-2026| music "記憶の名前": 20% (46.8711/224s)
+[1]Delia       |09:06:56 | 11-10-2026| music "記憶の名前": 25% (56.9538/224s)
+[1]Delia       |09:07:07 | 11-10-2026| music "記憶の名前": 30% (68.1354/224s)
+[1]Delia       |09:07:18 | 11-10-2026| music 367bf222-a4ef-4252-9653-84bb56fd2973: heartbeat GAGAL http=503, stop trek
+[1]Delia       |09:07:18 | 11-10-2026| music "記憶の名前": selesai 78.49260000000001s
+[1]Delia       |09:07:18 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Delia       |09:07:18 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Delia menjalankan: Claim Missions
+[1]Delia       |09:07:18 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Delia menjalankan: Check Eligibility
+
+--- eligibility [1]Delia ---
+  @deliasbrn | score=900 rank=6540
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Delia menjalankan: Read Manga
+[1]Delia       |09:07:18 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Delia menjalankan: Get Gift
+[1]Delia       |09:07:18 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Delia menjalankan: Setup Profile
+[1]Delia       |09:07:18 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Delia menjalankan: Bind Wallet
+[1]Delia       |09:07:18 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Delia: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+20pt) | watch 3/3 completed | musik 5 trek ~689.4441s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
