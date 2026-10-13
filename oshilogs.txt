@@ -12,167 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Delia =====
-[1]Delia       |08:47:50 | 12-10-2026| login OK @deliasbrn | score=950 rank=6405
-[1]Delia       |08:47:50 | 12-10-2026| serverTime=2026-10-12T08:47:50.000Z local=2026-10-12T08:47:50.811Z
+[1]Delia       |09:05:38 | 13-10-2026| login OK @deliasbrn | score=1080 rank=5750
+[1]Delia       |09:05:38 | 13-10-2026| serverTime=2026-10-13T09:05:38.000Z local=2026-10-13T09:05:38.250Z
 --> [1]Delia menjalankan: Claim Daily
-[1]Delia       |08:47:51 | 12-10-2026| daily: OK +10 poin score=960
---> [1]Delia menjalankan: Auto All Tasks (8 pending)
-[1]Delia       |08:47:54 | 12-10-2026| [1/8] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109566273823169010
-[1]Delia       |08:47:54 | 12-10-2026| delay 10s...
-[1]Delia       |08:48:06 | 12-10-2026| [2/8] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109566376094865160
-[1]Delia       |08:48:06 | 12-10-2026| delay 10s...
-[1]Delia       |08:48:19 | 12-10-2026| [3/8] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109566201887487493
-[1]Delia       |08:48:19 | 12-10-2026| delay 10s...
-[1]Delia       |08:48:31 | 12-10-2026| [4/8] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Delia       |08:48:31 | 12-10-2026| delay 10s...
-[1]Delia       |08:48:43 | 12-10-2026| [5/8] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109566519269232740
-[1]Delia       |08:48:43 | 12-10-2026| delay 10s...
-[1]Delia       |08:48:56 | 12-10-2026| [6/8] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109566361731594481
-[1]Delia       |08:48:56 | 12-10-2026| delay 10s...
-[1]Delia       |08:49:07 | 12-10-2026| [7/8] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Delia       |08:49:07 | 12-10-2026| delay 10s...
-[1]Delia       |08:49:19 | 12-10-2026| [8/8] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109566767796995887
-[1]Delia       |08:49:19 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Delia       |08:49:21 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/deliasbrn/status/2109566575642135491
+[1]Delia       |09:05:39 | 13-10-2026| daily: OK +10 poin score=1090
+--> [1]Delia menjalankan: Auto All Tasks (4 pending)
+[1]Delia       |09:05:42 | 13-10-2026| [1/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109933187500406768
+[1]Delia       |09:05:42 | 13-10-2026| delay 10s...
+[1]Delia       |09:05:55 | 13-10-2026| [2/4] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109933319203739050
+[1]Delia       |09:05:55 | 13-10-2026| delay 10s...
+[1]Delia       |09:06:08 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109933244393491832
+[1]Delia       |09:06:08 | 13-10-2026| delay 10s...
+[1]Delia       |09:06:20 | 13-10-2026| [4/4] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109933479745412239
+[1]Delia       |09:06:20 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Delia       |09:06:22 | 13-10-2026| [1/1] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/deliasbrn/status/2109933229552713526
 --> [1]Delia menjalankan: Watch Anime
-[1]Delia       |08:49:22 | 12-10-2026| watch: semua video sudah completed
+[1]Delia       |09:06:24 | 13-10-2026| watch: semua video sudah completed
 --> [1]Delia menjalankan: Read Article
-[1]Delia       |08:49:23 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Delia       |08:49:23 | 12-10-2026| mint eligibility: {"userId":"1886502032175161344","youtube":{"url":"https://www.youtube.com/@deliasbrn","status":"submitted","revision":"5ac51880-888b-4206-bb9f-e83738be8347","submittedAt":1791680809,"reviewedAt":17916
-[1]Delia       |08:49:23 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Delia       |09:06:25 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Delia       |09:06:26 | 13-10-2026| mint eligibility: {"userId":"1886502032175161344","youtube":{"url":"https://www.youtube.com/@deliasbrn","status":"submitted","revision":"5ac51880-888b-4206-bb9f-e83738be8347","submittedAt":1791680809,"reviewedAt":17916
+[1]Delia       |09:06:26 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Delia menjalankan: Quiz Anime
-[1]Delia       |08:49:24 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Delia       |08:49:24 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Delia       |08:49:24 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Delia       |08:49:24 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Delia       |08:49:24 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Delia       |08:49:24 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Delia       |09:06:26 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Delia       |09:06:26 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Delia       |09:06:26 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Delia       |09:06:26 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Delia       |09:06:26 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Delia       |09:06:26 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Delia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Delia       |08:49:28 | 12-10-2026| music memutar "記憶の名前" (224s)...
-[1]Delia       |08:49:40 | 12-10-2026| music "記憶の名前": 4% (9.0045/224s)
-[1]Delia       |08:49:51 | 12-10-2026| music "記憶の名前": 8% (18.991799999999998/224s)
-[1]Delia       |08:50:02 | 12-10-2026| music "記憶の名前": 12% (28.8756/224s)
-[1]Delia       |08:50:13 | 12-10-2026| music "記憶の名前": 17% (38.9394/224s)
-[1]Delia       |08:50:25 | 12-10-2026| music "記憶の名前": 22% (49.2993/224s)
-[1]Delia       |08:50:36 | 12-10-2026| music "記憶の名前": 26% (59.62050000000001/224s)
-[1]Delia       |08:50:47 | 12-10-2026| music "記憶の名前": 31% (69.4809/224s)
-[1]Delia       |08:50:58 | 12-10-2026| music "記憶の名前": 35% (79.3953/224s)
-[1]Delia       |08:51:09 | 12-10-2026| music "記憶の名前": 39% (89.2737/224s)
-[1]Delia       |08:51:21 | 12-10-2026| music "記憶の名前": 44% (99.6948/224s)
-[1]Delia       |08:51:32 | 12-10-2026| music "記憶の名前": 49% (110.0277/224s)
-[1]Delia       |08:51:43 | 12-10-2026| music "記憶の名前": 53% (119.9259/224s)
-[1]Delia       |08:51:54 | 12-10-2026| music "記憶の名前": 58% (129.9672/224s)
-[1]Delia       |08:52:05 | 12-10-2026| music "記憶の名前": 62% (139.8267/224s)
-[1]Delia       |08:52:16 | 12-10-2026| music "記憶の名前": 66% (149.78879999999998/224s)
-[1]Delia       |08:52:27 | 12-10-2026| music "記憶の名前": 71% (159.92549999999997/224s)
-[1]Delia       |08:52:39 | 12-10-2026| music "記憶の名前": 75% (169.78409999999997/224s)
-[1]Delia       |08:52:50 | 12-10-2026| music "記憶の名前": 80% (180.47789999999998/224s)
-[1]Delia       |08:52:50 | 12-10-2026| music "記憶の名前": selesai 180.47789999999998s
-[1]Delia       |08:52:53 | 12-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Delia       |08:53:04 | 12-10-2026| music "Smart Pocket": 3% (9.0054/232s)
-[1]Delia       |08:53:15 | 12-10-2026| music "Smart Pocket": 8% (18.9909/232s)
-[1]Delia       |08:53:26 | 12-10-2026| music "Smart Pocket": 12% (28.9197/232s)
-[1]Delia       |08:53:37 | 12-10-2026| music "Smart Pocket": 16% (38.934/232s)
-[1]Delia       |08:53:48 | 12-10-2026| music "Smart Pocket": 21% (48.8709/232s)
-[1]Delia       |08:53:59 | 12-10-2026| music "Smart Pocket": 25% (58.8483/232s)
-[1]Delia       |08:54:10 | 12-10-2026| music "Smart Pocket": 29% (69.0021/232s)
-[1]Delia       |08:54:22 | 12-10-2026| music "Smart Pocket": 34% (79.0011/232s)
-[1]Delia       |08:54:34 | 12-10-2026| music "Smart Pocket": 38% (89.5302/232s)
-[1]Delia       |08:54:45 | 12-10-2026| music "Smart Pocket": 43% (100.2492/232s)
-[1]Delia       |08:54:56 | 12-10-2026| music "Smart Pocket": 47% (110.14920000000001/232s)
-[1]Delia       |08:55:07 | 12-10-2026| music "Smart Pocket": 51% (120.04560000000001/232s)
-[1]Delia       |08:55:18 | 12-10-2026| music "Smart Pocket": 56% (129.9969/232s)
-[1]Delia       |08:55:29 | 12-10-2026| music "Smart Pocket": 60% (139.8186/232s)
-[1]Delia       |08:55:40 | 12-10-2026| music "Smart Pocket": 64% (149.7744/232s)
-[1]Delia       |08:55:51 | 12-10-2026| music "Smart Pocket": 68% (159.7869/232s)
-[1]Delia       |08:56:03 | 12-10-2026| music "Smart Pocket": 73% (169.74450000000002/232s)
-[1]Delia       |08:56:15 | 12-10-2026| music "Smart Pocket": 77% (180.73080000000002/232s)
-[1]Delia       |08:56:26 | 12-10-2026| music "Smart Pocket": 82% (191.0619/232s)
-[1]Delia       |08:56:27 | 12-10-2026| music "Smart Pocket": selesai 191.0619s
-[1]Delia       |08:56:29 | 12-10-2026| music memutar "神様みたいに" (254s)...
-[1]Delia       |08:56:40 | 12-10-2026| music "神様みたいに": 3% (9.0036/254s)
-[1]Delia       |08:56:52 | 12-10-2026| music "神様みたいに": 7% (19.189799999999998/254s)
-[1]Delia       |08:57:03 | 12-10-2026| music "神様みたいに": 11% (29.127599999999997/254s)
-[1]Delia       |08:57:14 | 12-10-2026| music "神様みたいに": 15% (39.0366/254s)
-[1]Delia       |08:57:25 | 12-10-2026| music "神様みたいに": 19% (49.1562/254s)
-[1]Delia       |08:57:36 | 12-10-2026| music "神様みたいに": 23% (59.1498/254s)
-[1]Delia       |08:57:48 | 12-10-2026| music "神様みたいに": 27% (69.4755/254s)
-[1]Delia       |08:57:59 | 12-10-2026| music "神様みたいに": 31% (79.9335/254s)
-[1]Delia       |08:58:10 | 12-10-2026| music "神様みたいに": 35% (89.8992/254s)
-[1]Delia       |08:58:21 | 12-10-2026| music "神様みたいに": 39% (99.9045/254s)
-[1]Delia       |08:58:32 | 12-10-2026| music "神様みたいに": 43% (109.8477/254s)
-[1]Delia       |08:58:43 | 12-10-2026| music "神様みたいに": 47% (119.7009/254s)
-[1]Delia       |08:58:54 | 12-10-2026| music "神様みたいに": 51% (129.6711/254s)
-[1]Delia       |08:59:05 | 12-10-2026| music "神様みたいに": 55% (139.7142/254s)
-[1]Delia       |08:59:16 | 12-10-2026| music "神様みたいに": 58% (149.6664/254s)
-[1]Delia       |08:59:29 | 12-10-2026| music "神様みたいに": 62% (159.5475/254s)
-[1]Delia       |08:59:40 | 12-10-2026| music "神様みたいに": 67% (171.2484/254s)
-[1]Delia       |08:59:51 | 12-10-2026| music "神様みたいに": 71% (181.1682/254s)
-[1]Delia       |09:00:03 | 12-10-2026| music "神様みたいに": 75% (191.03580000000002/254s)
-[1]Delia       |09:00:14 | 12-10-2026| music "神様みたいに": 79% (201.19860000000003/254s)
-[1]Delia       |09:00:26 | 12-10-2026| music "神様みたいに": 83% (211.43970000000002/254s)
-[1]Delia       |09:00:27 | 12-10-2026| music "神様みたいに": selesai 211.43970000000002s
-[1]Delia       |09:00:30 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Delia       |09:00:41 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0009/269s)
-[1]Delia       |09:00:52 | 12-10-2026| music "せーので、飛ぼう！": 7% (18.9864/269s)
-[1]Delia       |09:01:04 | 12-10-2026| music "せーので、飛ぼう！": 10% (29.334600000000002/269s)
-[1]Delia       |09:01:15 | 12-10-2026| music "せーので、飛ぼう！": 14% (40.2633/269s)
-[1]Delia       |09:01:27 | 12-10-2026| music "せーので、飛ぼう！": 18% (50.2029/269s)
-[1]Delia       |09:01:38 | 12-10-2026| music "せーので、飛ぼう！": 22% (60.3936/269s)
-[1]Delia       |09:01:49 | 12-10-2026| music "せーので、飛ぼう！": 26% (70.632/269s)
-[1]Delia       |09:02:00 | 12-10-2026| music "せーので、飛ぼう！": 29% (80.5779/269s)
-[1]Delia       |09:02:12 | 12-10-2026| music "せーので、飛ぼう！": 33% (90.5634/269s)
-[1]Delia       |09:02:23 | 12-10-2026| music "せーので、飛ぼう！": 37% (100.8396/269s)
-[1]Delia       |09:02:34 | 12-10-2026| music "せーので、飛ぼう！": 41% (110.75670000000001/269s)
-[1]Delia       |09:02:45 | 12-10-2026| music "せーので、飛ぼう！": 45% (121.09410000000001/269s)
-[1]Delia       |09:02:56 | 12-10-2026| music "せーので、飛ぼう！": 48% (131.1309/269s)
-[1]Delia       |09:03:07 | 12-10-2026| music "せーので、飛ぼう！": 52% (141.0561/269s)
-[1]Delia       |09:03:19 | 12-10-2026| music "せーので、飛ぼう！": 56% (151.0632/269s)
-[1]Delia       |09:03:30 | 12-10-2026| music "せーので、飛ぼう！": 59% (161.3943/269s)
-[1]Delia       |09:03:41 | 12-10-2026| music "せーので、飛ぼう！": 63% (171.3312/269s)
-[1]Delia       |09:03:53 | 12-10-2026| music "せーので、飛ぼう！": 67% (181.3212/269s)
-[1]Delia       |09:04:04 | 12-10-2026| music "せーので、飛ぼう！": 71% (192.1167/269s)
-[1]Delia       |09:04:15 | 12-10-2026| music "せーので、飛ぼう！": 75% (202.01760000000002/269s)
-[1]Delia       |09:04:26 | 12-10-2026| music "せーので、飛ぼう！": 78% (211.90410000000003/269s)
-[1]Delia       |09:04:37 | 12-10-2026| music "せーので、飛ぼう！": 82% (221.96430000000004/269s)
-[1]Delia       |09:04:38 | 12-10-2026| music "せーので、飛ぼう！": selesai 221.96430000000004s
-[1]Delia       |09:04:40 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Delia       |09:04:51 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0045/276s)
-[1]Delia       |09:05:02 | 12-10-2026| music "ON CHAIN NEXUS": 6% (18.9423/276s)
-[1]Delia       |09:05:14 | 12-10-2026| music "ON CHAIN NEXUS": 10% (28.9287/276s)
-[1]Delia       |09:05:26 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.2571/276s)
-[1]Delia       |09:05:37 | 12-10-2026| music "ON CHAIN NEXUS": 18% (50.2866/276s)
-[1]Delia       |09:05:50 | 12-10-2026| music "ON CHAIN NEXUS": 21% (60.2568/276s)
-[1]Delia       |09:06:01 | 12-10-2026| music "ON CHAIN NEXUS": 25% (71.7084/276s)
-[1]Delia       |09:06:12 | 12-10-2026| music "ON CHAIN NEXUS": 29% (81.6642/276s)
-[1]Delia       |09:06:23 | 12-10-2026| music "ON CHAIN NEXUS": 33% (91.5102/276s)
-[1]Delia       |09:06:34 | 12-10-2026| music "ON CHAIN NEXUS": 36% (101.5695/276s)
-[1]Delia       |09:06:46 | 12-10-2026| music "ON CHAIN NEXUS": 40% (111.5163/276s)
-[1]Delia       |09:06:57 | 12-10-2026| music "ON CHAIN NEXUS": 44% (122.247/276s)
-[1]Delia       |09:07:08 | 12-10-2026| music "ON CHAIN NEXUS": 47% (132.1632/276s)
-[1]Delia       |09:07:19 | 12-10-2026| music "ON CHAIN NEXUS": 51% (142.0929/276s)
-[1]Delia       |09:07:30 | 12-10-2026| music "ON CHAIN NEXUS": 55% (152.3439/276s)
-[1]Delia       |09:07:42 | 12-10-2026| music "ON CHAIN NEXUS": 58% (162.25199999999998/276s)
-[1]Delia       |09:07:53 | 12-10-2026| music "ON CHAIN NEXUS": 62% (172.51829999999998/276s)
-[1]Delia       |09:08:05 | 12-10-2026| music "ON CHAIN NEXUS": 66% (182.82779999999997/276s)
-[1]Delia       |09:08:16 | 12-10-2026| music "ON CHAIN NEXUS": 69% (193.13819999999996/276s)
-[1]Delia       |09:08:27 | 12-10-2026| music "ON CHAIN NEXUS": 73% (203.59079999999994/276s)
-[1]Delia       |09:08:38 | 12-10-2026| music "ON CHAIN NEXUS": 77% (213.48539999999994/276s)
-[1]Delia       |09:08:50 | 12-10-2026| music "ON CHAIN NEXUS": 80% (223.52579999999995/276s)
-[1]Delia       |09:08:50 | 12-10-2026| music "ON CHAIN NEXUS": selesai 223.52579999999995s
-[1]Delia       |09:08:51 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Delia       |09:08:53 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Delia       |09:08:57 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Delia       |09:09:01 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Delia       |09:06:28 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Delia       |09:06:29 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Delia       |09:06:29 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Delia       |09:06:29 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Delia menjalankan: Claim Missions
-[1]Delia       |09:09:04 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Delia       |09:09:04 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Delia       |09:09:04 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Delia       |09:06:29 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Delia       |09:06:29 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Delia       |09:06:29 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Delia menjalankan: Check Eligibility
 
 --- eligibility [1]Delia ---
-  @deliasbrn | score=950 rank=6405
-  tasks    [##################--] 72/80
+  @deliasbrn | score=1080 rank=5750
+  tasks    [###################-] 73/77
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -183,251 +63,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Delia menjalankan: Read Manga
-[1]Delia       |09:09:08 | 12-10-2026| manga: 13/13 chapter belum completed
-[1]Delia       |09:09:08 | 12-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Delia       |09:09:14 | 12-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Delia       |09:09:19 | 12-10-2026| manga ch1 (1): page 2/19 (10%) 5s
-[1]Delia       |09:09:23 | 12-10-2026| manga ch1 (1): page 3/19 (15%) 10s
-[1]Delia       |09:09:28 | 12-10-2026| manga ch1 (1): page 4/19 (21%) 14s
-[1]Delia       |09:09:33 | 12-10-2026| manga ch1 (1): page 5/19 (26%) 19s
-[1]Delia       |09:09:37 | 12-10-2026| manga ch1 (1): page 6/19 (31%) 24s
-[1]Delia       |09:09:42 | 12-10-2026| manga ch1 (1): page 7/19 (36%) 28s
-[1]Delia       |09:09:46 | 12-10-2026| manga ch1 (1): page 8/19 (42%) 33s
-[1]Delia       |09:09:51 | 12-10-2026| manga ch1 (1): page 9/19 (47%) 37s
-[1]Delia       |09:09:55 | 12-10-2026| manga ch1 (1): page 10/19 (52%) 42s
-[1]Delia       |09:10:00 | 12-10-2026| manga ch1 (1): page 11/19 (57%) 46s
-[1]Delia       |09:10:05 | 12-10-2026| manga ch1 (1): page 12/19 (63%) 51s
-[1]Delia       |09:10:10 | 12-10-2026| manga ch1 (1): page 13/19 (68%) 56s
-[1]Delia       |09:10:14 | 12-10-2026| manga ch1 (1): page 14/19 (73%) 61s
-[1]Delia       |09:10:19 | 12-10-2026| manga ch1 (1): page 15/19 (78%) 65s
-[1]Delia       |09:10:23 | 12-10-2026| manga ch1 (1): page 16/19 (84%) 70s
-[1]Delia       |09:10:28 | 12-10-2026| manga ch1 (1): page 17/19 (89%) 74s
-[1]Delia       |09:10:32 | 12-10-2026| manga ch1 (1): page 18/19 (94%) 79s
-[1]Delia       |09:10:37 | 12-10-2026| manga ch1 (1): page 19/19 (99%) 83s
-[1]Delia       |09:10:42 | 12-10-2026| manga ch1 (1): COMPLETED
-[1]Delia       |09:10:45 | 12-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Delia       |09:10:51 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Delia       |09:10:55 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
-[1]Delia       |09:11:00 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
-[1]Delia       |09:11:04 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
-[1]Delia       |09:11:09 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 18s
-[1]Delia       |09:11:14 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
-[1]Delia       |09:11:19 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
-[1]Delia       |09:11:23 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 33s
-[1]Delia       |09:11:28 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
-[1]Delia       |09:11:32 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 42s
-[1]Delia       |09:11:37 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 47s
-[1]Delia       |09:11:41 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 51s
-[1]Delia       |09:11:46 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 56s
-[1]Delia       |09:11:51 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 60s
-[1]Delia       |09:11:55 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 65s
-[1]Delia       |09:12:00 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 69s
-[1]Delia       |09:12:05 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 74s
-[1]Delia       |09:12:09 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 79s
-[1]Delia       |09:12:14 | 12-10-2026| manga ch2 (450001): COMPLETED
-[1]Delia       |09:12:17 | 12-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Delia       |09:12:22 | 12-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Delia       |09:12:27 | 12-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
-[1]Delia       |09:12:32 | 12-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
-[1]Delia       |09:12:36 | 12-10-2026| manga ch3 (2160001): page 4/17 (23%) 14s
-[1]Delia       |09:12:41 | 12-10-2026| manga ch3 (2160001): page 5/17 (29%) 19s
-[1]Delia       |09:12:46 | 12-10-2026| manga ch3 (2160001): page 6/17 (35%) 23s
-[1]Delia       |09:12:50 | 12-10-2026| manga ch3 (2160001): page 7/17 (41%) 28s
-[1]Delia       |09:12:55 | 12-10-2026| manga ch3 (2160001): page 8/17 (47%) 32s
-[1]Delia       |09:12:59 | 12-10-2026| manga ch3 (2160001): page 9/17 (52%) 37s
-[1]Delia       |09:13:04 | 12-10-2026| manga ch3 (2160001): page 10/17 (58%) 41s
-[1]Delia       |09:13:08 | 12-10-2026| manga ch3 (2160001): page 11/17 (64%) 46s
-[1]Delia       |09:13:13 | 12-10-2026| manga ch3 (2160001): page 12/17 (70%) 50s
-[1]Delia       |09:13:18 | 12-10-2026| manga ch3 (2160001): page 13/17 (76%) 55s
-[1]Delia       |09:13:22 | 12-10-2026| manga ch3 (2160001): page 14/17 (82%) 60s
-[1]Delia       |09:13:27 | 12-10-2026| manga ch3 (2160001): page 15/17 (88%) 64s
-[1]Delia       |09:13:31 | 12-10-2026| manga ch3 (2160001): page 16/17 (94%) 69s
-[1]Delia       |09:13:36 | 12-10-2026| manga ch3 (2160001): page 17/17 (99%) 73s
-[1]Delia       |09:13:41 | 12-10-2026| manga ch3 (2160001): COMPLETED
-[1]Delia       |09:13:44 | 12-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Delia       |09:13:49 | 12-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Delia       |09:13:54 | 12-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
-[1]Delia       |09:14:00 | 12-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
-[1]Delia       |09:14:05 | 12-10-2026| manga ch4 (2400001): page 4/17 (23%) 15s
-[1]Delia       |09:14:09 | 12-10-2026| manga ch4 (2400001): page 5/17 (29%) 20s
-[1]Delia       |09:14:14 | 12-10-2026| manga ch4 (2400001): page 6/17 (35%) 24s
-[1]Delia       |09:14:19 | 12-10-2026| manga ch4 (2400001): page 7/17 (41%) 29s
-[1]Delia       |09:14:24 | 12-10-2026| manga ch4 (2400001): page 8/17 (47%) 34s
-[1]Delia       |09:14:28 | 12-10-2026| manga ch4 (2400001): page 9/17 (52%) 39s
-[1]Delia       |09:14:33 | 12-10-2026| manga ch4 (2400001): page 10/17 (58%) 43s
-[1]Delia       |09:14:37 | 12-10-2026| manga ch4 (2400001): page 11/17 (64%) 48s
-[1]Delia       |09:14:42 | 12-10-2026| manga ch4 (2400001): page 12/17 (70%) 52s
-[1]Delia       |09:14:47 | 12-10-2026| manga ch4 (2400001): page 13/17 (76%) 57s
-[1]Delia       |09:14:51 | 12-10-2026| manga ch4 (2400001): page 14/17 (82%) 62s
-[1]Delia       |09:14:56 | 12-10-2026| manga ch4 (2400001): page 15/17 (88%) 66s
-[1]Delia       |09:15:00 | 12-10-2026| manga ch4 (2400001): page 16/17 (94%) 71s
-[1]Delia       |09:15:05 | 12-10-2026| manga ch4 (2400001): page 17/17 (99%) 75s
-[1]Delia       |09:15:09 | 12-10-2026| manga ch4 (2400001): COMPLETED
-[1]Delia       |09:15:12 | 12-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Delia       |09:15:18 | 12-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Delia       |09:15:23 | 12-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
-[1]Delia       |09:15:27 | 12-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
-[1]Delia       |09:15:32 | 12-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
-[1]Delia       |09:15:37 | 12-10-2026| manga ch5 (2490001): page 5/18 (27%) 19s
-[1]Delia       |09:15:42 | 12-10-2026| manga ch5 (2490001): page 6/18 (33%) 24s
-[1]Delia       |09:15:47 | 12-10-2026| manga ch5 (2490001): page 7/18 (38%) 29s
-[1]Delia       |09:15:52 | 12-10-2026| manga ch5 (2490001): page 8/18 (44%) 34s
-[1]Delia       |09:15:56 | 12-10-2026| manga ch5 (2490001): page 9/18 (50%) 38s
-[1]Delia       |09:16:01 | 12-10-2026| manga ch5 (2490001): page 10/18 (55%) 43s
-[1]Delia       |09:16:06 | 12-10-2026| manga ch5 (2490001): page 11/18 (61%) 48s
-[1]Delia       |09:16:11 | 12-10-2026| manga ch5 (2490001): page 12/18 (66%) 53s
-[1]Delia       |09:16:15 | 12-10-2026| manga ch5 (2490001): page 13/18 (72%) 58s
-[1]Delia       |09:16:20 | 12-10-2026| manga ch5 (2490001): page 14/18 (77%) 62s
-[1]Delia       |09:16:25 | 12-10-2026| manga ch5 (2490001): page 15/18 (83%) 66s
-[1]Delia       |09:16:30 | 12-10-2026| manga ch5 (2490001): page 16/18 (88%) 72s
-[1]Delia       |09:16:34 | 12-10-2026| manga ch5 (2490001): page 17/18 (94%) 76s
-[1]Delia       |09:16:39 | 12-10-2026| manga ch5 (2490001): page 18/18 (99%) 81s
-[1]Delia       |09:16:43 | 12-10-2026| manga ch5 (2490001): COMPLETED
-[1]Delia       |09:16:46 | 12-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Delia       |09:16:52 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Delia       |09:16:57 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
-[1]Delia       |09:17:01 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
-[1]Delia       |09:17:06 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
-[1]Delia       |09:17:10 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
-[1]Delia       |09:17:15 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
-[1]Delia       |09:17:19 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
-[1]Delia       |09:17:24 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
-[1]Delia       |09:17:28 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 36s
-[1]Delia       |09:17:33 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 41s
-[1]Delia       |09:17:38 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 46s
-[1]Delia       |09:17:42 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 50s
-[1]Delia       |09:17:47 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 55s
-[1]Delia       |09:17:51 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 59s
-[1]Delia       |09:17:56 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 64s
-[1]Delia       |09:18:00 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 68s
-[1]Delia       |09:18:05 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 73s
-[1]Delia       |09:18:09 | 12-10-2026| manga ch6 (2610001): COMPLETED
-[1]Delia       |09:18:12 | 12-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Delia       |09:18:18 | 12-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Delia       |09:18:23 | 12-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
-[1]Delia       |09:18:28 | 12-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
-[1]Delia       |09:18:33 | 12-10-2026| manga ch1 (180003): page 4/21 (19%) 14s
-[1]Delia       |09:18:37 | 12-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
-[1]Delia       |09:18:42 | 12-10-2026| manga ch1 (180003): page 6/21 (28%) 24s
-[1]Delia       |09:18:46 | 12-10-2026| manga ch1 (180003): page 7/21 (33%) 28s
-[1]Delia       |09:18:51 | 12-10-2026| manga ch1 (180003): page 8/21 (38%) 33s
-[1]Delia       |09:18:55 | 12-10-2026| manga ch1 (180003): page 9/21 (42%) 37s
-[1]Delia       |09:19:00 | 12-10-2026| manga ch1 (180003): page 10/21 (47%) 42s
-[1]Delia       |09:19:04 | 12-10-2026| manga ch1 (180003): page 11/21 (52%) 46s
-[1]Delia       |09:19:09 | 12-10-2026| manga ch1 (180003): page 12/21 (57%) 51s
-[1]Delia       |09:19:14 | 12-10-2026| manga ch1 (180003): page 13/21 (61%) 56s
-[1]Delia       |09:19:19 | 12-10-2026| manga ch1 (180003): page 14/21 (66%) 60s
-[1]Delia       |09:19:23 | 12-10-2026| manga ch1 (180003): page 15/21 (71%) 65s
-[1]Delia       |09:19:28 | 12-10-2026| manga ch1 (180003): page 16/21 (76%) 70s
-[1]Delia       |09:19:33 | 12-10-2026| manga ch1 (180003): page 17/21 (80%) 75s
-[1]Delia       |09:19:38 | 12-10-2026| manga ch1 (180003): page 18/21 (85%) 80s
-[1]Delia       |09:19:42 | 12-10-2026| manga ch1 (180003): page 19/21 (90%) 84s
-[1]Delia       |09:19:47 | 12-10-2026| manga ch1 (180003): page 20/21 (95%) 89s
-[1]Delia       |09:19:52 | 12-10-2026| manga ch1 (180003): page 21/21 (99%) 94s
-[1]Delia       |09:19:56 | 12-10-2026| manga ch1 (180003): COMPLETED
-[1]Delia       |09:19:59 | 12-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Delia       |09:20:05 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Delia       |09:20:09 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
-[1]Delia       |09:20:14 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
-[1]Delia       |09:20:19 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
-[1]Delia       |09:20:24 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 19s
-[1]Delia       |09:20:29 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 24s
-[1]Delia       |09:20:33 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 29s
-[1]Delia       |09:20:38 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 33s
-[1]Delia       |09:20:42 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 38s
-[1]Delia       |09:20:47 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 42s
-[1]Delia       |09:20:52 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 47s
-[1]Delia       |09:20:57 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 52s
-[1]Delia       |09:21:02 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 57s
-[1]Delia       |09:21:07 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 61s
-[1]Delia       |09:21:12 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 66s
-[1]Delia       |09:21:16 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 71s
-[1]Delia       |09:21:21 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 76s
-[1]Delia       |09:21:26 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 80s
-[1]Delia       |09:21:31 | 12-10-2026| manga ch2 (990005): COMPLETED
-[1]Delia       |09:21:34 | 12-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Delia       |09:21:39 | 12-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Delia       |09:21:45 | 12-10-2026| manga ch3 (1980001): page 2/20 (10%) 4s
-[1]Delia       |09:21:49 | 12-10-2026| manga ch3 (1980001): page 3/20 (15%) 10s
-[1]Delia       |09:21:54 | 12-10-2026| manga ch3 (1980001): page 4/20 (20%) 15s
-[1]Delia       |09:21:58 | 12-10-2026| manga ch3 (1980001): page 5/20 (25%) 19s
-[1]Delia       |09:22:03 | 12-10-2026| manga ch3 (1980001): page 6/20 (30%) 24s
-[1]Delia       |09:22:08 | 12-10-2026| manga ch3 (1980001): page 7/20 (35%) 28s
-[1]Delia       |09:22:13 | 12-10-2026| manga ch3 (1980001): page 8/20 (40%) 34s
-[1]Delia       |09:22:17 | 12-10-2026| manga ch3 (1980001): page 9/20 (45%) 38s
-[1]Delia       |09:22:22 | 12-10-2026| manga ch3 (1980001): page 10/20 (50%) 43s
-[1]Delia       |09:22:27 | 12-10-2026| manga ch3 (1980001): page 11/20 (55%) 48s
-[1]Delia       |09:22:32 | 12-10-2026| manga ch3 (1980001): page 12/20 (60%) 52s
-[1]Delia       |09:22:36 | 12-10-2026| manga ch3 (1980001): page 13/20 (65%) 57s
-[1]Delia       |09:22:42 | 12-10-2026| manga ch3 (1980001): page 14/20 (70%) 61s
-[1]Delia       |09:22:46 | 12-10-2026| manga ch3 (1980001): page 15/20 (75%) 67s
-[1]Delia       |09:22:51 | 12-10-2026| manga ch3 (1980001): page 16/20 (80%) 71s
-[1]Delia       |09:22:55 | 12-10-2026| manga ch3 (1980001): page 17/20 (85%) 76s
-[1]Delia       |09:23:00 | 12-10-2026| manga ch3 (1980001): page 18/20 (90%) 80s
-[1]Delia       |09:23:04 | 12-10-2026| manga ch3 (1980001): page 19/20 (95%) 85s
-[1]Delia       |09:23:09 | 12-10-2026| manga ch3 (1980001): page 20/20 (99%) 90s
-[1]Delia       |09:23:15 | 12-10-2026| manga ch3 (1980001): COMPLETED
-[1]Delia       |09:23:18 | 12-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Delia       |09:23:24 | 12-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Delia       |09:23:29 | 12-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
-[1]Delia       |09:23:34 | 12-10-2026| manga ch1 (2100001): page 3/9 (33%) 10s
-[1]Delia       |09:23:41 | 12-10-2026| manga ch1 (2100001): page 4/9 (44%) 15s
-[1]Delia       |09:23:45 | 12-10-2026| manga ch1 (2100001): page 5/9 (55%) 22s
-[1]Delia       |09:23:50 | 12-10-2026| manga ch1 (2100001): page 6/9 (66%) 26s
-[1]Delia       |09:23:54 | 12-10-2026| manga ch1 (2100001): page 7/9 (77%) 31s
-[1]Delia       |09:23:59 | 12-10-2026| manga ch1 (2100001): page 8/9 (88%) 35s
-[1]Delia       |09:24:04 | 12-10-2026| manga ch1 (2100001): page 9/9 (99%) 40s
-[1]Delia       |09:24:08 | 12-10-2026| manga ch1 (2100001): COMPLETED
-[1]Delia       |09:24:11 | 12-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Delia       |09:24:17 | 12-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Delia       |09:24:22 | 12-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
-[1]Delia       |09:24:26 | 12-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
-[1]Delia       |09:24:31 | 12-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
-[1]Delia       |09:24:35 | 12-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
-[1]Delia       |09:24:40 | 12-10-2026| manga ch1 (2070001): page 6/10 (60%) 23s
-[1]Delia       |09:24:44 | 12-10-2026| manga ch1 (2070001): page 7/10 (70%) 28s
-[1]Delia       |09:24:49 | 12-10-2026| manga ch1 (2070001): page 8/10 (80%) 32s
-[1]Delia       |09:24:54 | 12-10-2026| manga ch1 (2070001): page 9/10 (90%) 37s
-[1]Delia       |09:24:58 | 12-10-2026| manga ch1 (2070001): page 10/10 (99%) 42s
-[1]Delia       |09:25:03 | 12-10-2026| manga ch1 (2070001): COMPLETED
-[1]Delia       |09:25:06 | 12-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Delia       |09:25:12 | 12-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Delia       |09:25:16 | 12-10-2026| manga ch2 (2520001): page 2/11 (18%) 4s
-[1]Delia       |09:25:21 | 12-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
-[1]Delia       |09:25:25 | 12-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
-[1]Delia       |09:25:30 | 12-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
-[1]Delia       |09:25:35 | 12-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
-[1]Delia       |09:25:39 | 12-10-2026| manga ch2 (2520001): page 7/11 (63%) 28s
-[1]Delia       |09:25:44 | 12-10-2026| manga ch2 (2520001): page 8/11 (72%) 32s
-[1]Delia       |09:25:48 | 12-10-2026| manga ch2 (2520001): page 9/11 (81%) 37s
-[1]Delia       |09:25:53 | 12-10-2026| manga ch2 (2520001): page 10/11 (90%) 41s
-[1]Delia       |09:25:57 | 12-10-2026| manga ch2 (2520001): page 11/11 (99%) 46s
-[1]Delia       |09:26:02 | 12-10-2026| manga ch2 (2520001): COMPLETED
-[1]Delia       |09:26:05 | 12-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Delia       |09:26:11 | 12-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Delia       |09:26:15 | 12-10-2026| manga ch3 (2550001): page 2/11 (18%) 4s
-[1]Delia       |09:26:20 | 12-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
-[1]Delia       |09:26:25 | 12-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
-[1]Delia       |09:26:30 | 12-10-2026| manga ch3 (2550001): page 5/11 (45%) 19s
-[1]Delia       |09:26:34 | 12-10-2026| manga ch3 (2550001): page 6/11 (54%) 23s
-[1]Delia       |09:26:39 | 12-10-2026| manga ch3 (2550001): page 7/11 (63%) 28s
-[1]Delia       |09:26:45 | 12-10-2026| manga ch3 (2550001): page 8/11 (72%) 33s
-[1]Delia       |09:26:50 | 12-10-2026| manga ch3 (2550001): page 9/11 (81%) 39s
-[1]Delia       |09:26:54 | 12-10-2026| manga ch3 (2550001): page 10/11 (90%) 43s
-[1]Delia       |09:26:59 | 12-10-2026| manga ch3 (2550001): page 11/11 (99%) 48s
-[1]Delia       |09:27:03 | 12-10-2026| manga ch3 (2550001): COMPLETED
+[1]Delia       |09:06:34 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Delia menjalankan: Get Gift
-[1]Delia       |09:27:07 | 12-10-2026| gift: 3/3 belum diterima
-[1]Delia       |09:27:12 | 12-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Delia       |09:27:15 | 12-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Delia       |09:27:19 | 12-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Delia       |09:06:34 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Delia menjalankan: Setup Profile
-[1]Delia       |09:27:21 | 12-10-2026| profile: bio="" fav=- rewardAt=-
-[1]Delia       |09:27:23 | 12-10-2026| profile: OK bio="https://x.com/deliasbrn" fav=mony awarded=true +10pt
+[1]Delia       |09:06:35 | 13-10-2026| profile: bio="https://x.com/deliasbrn" fav=mony rewardAt=1791797242
+[1]Delia       |09:06:35 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Delia menjalankan: Bind Wallet
-[1]Delia       |09:27:24 | 12-10-2026| wallet: derivasi dari privateKeySolana -> CvzSDZnNSrbfDtoma89uHbraUNqYA4xJF36DsxAnB3gE (cek cocok dengan wallet kamu!)
-[1]Delia       |09:27:25 | 12-10-2026| wallet: /api/wallet OK (solana)
-[1]Delia       |09:27:26 | 12-10-2026| wallet: /api/sol-address OK
+[1]Delia       |09:06:36 | 13-10-2026| wallet: sudah terikat CvzSDZnNSr... (solana)
 
 == RINGKASAN ==
-- Delia: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 5 trek ~1028.4696s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
+- Delia: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
