@@ -12,65 +12,77 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Delia =====
-[1]Delia       |09:05:38 | 13-10-2026| login OK @deliasbrn | score=1080 rank=5750
-[1]Delia       |09:05:38 | 13-10-2026| serverTime=2026-10-13T09:05:38.000Z local=2026-10-13T09:05:38.250Z
+[1]Delia       |07:15:24 | 14-10-2026| login OK @deliasbrn | score=1130 rank=5437
+[1]Delia       |07:15:24 | 14-10-2026| serverTime=2026-10-14T07:15:23.000Z local=2026-10-14T07:15:24.077Z
 --> [1]Delia menjalankan: Claim Daily
-[1]Delia       |09:05:39 | 13-10-2026| daily: OK +10 poin score=1090
---> [1]Delia menjalankan: Auto All Tasks (4 pending)
-[1]Delia       |09:05:42 | 13-10-2026| [1/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109933187500406768
-[1]Delia       |09:05:42 | 13-10-2026| delay 10s...
-[1]Delia       |09:05:55 | 13-10-2026| [2/4] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109933319203739050
-[1]Delia       |09:05:55 | 13-10-2026| delay 10s...
-[1]Delia       |09:06:08 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109933244393491832
-[1]Delia       |09:06:08 | 13-10-2026| delay 10s...
-[1]Delia       |09:06:20 | 13-10-2026| [4/4] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2109933479745412239
-[1]Delia       |09:06:20 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Delia       |09:06:22 | 13-10-2026| [1/1] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/deliasbrn/status/2109933229552713526
+[1]Delia       |07:15:25 | 14-10-2026| daily: OK +10 poin score=1140
+--> [1]Delia menjalankan: Auto All Tasks (6 pending)
+[1]Delia       |07:15:27 | 14-10-2026| [1/6] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2110267893481015966
+[1]Delia       |07:15:27 | 14-10-2026| delay 10s...
+[1]Delia       |07:15:39 | 14-10-2026| [2/6] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Delia       |07:15:39 | 14-10-2026| delay 10s...
+[1]Delia       |07:15:50 | 14-10-2026| [3/6] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2110267821166826936
+[1]Delia       |07:15:50 | 14-10-2026| delay 10s...
+[1]Delia       |07:16:02 | 14-10-2026| [4/6] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2110268041449440290
+[1]Delia       |07:16:02 | 14-10-2026| delay 10s...
+[1]Delia       |07:16:13 | 14-10-2026| [5/6] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/deliasbrn/status/2110268039227122113
+[1]Delia       |07:16:13 | 14-10-2026| delay 10s...
+[1]Delia       |07:16:26 | 14-10-2026| [6/6] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Delia       |07:16:26 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Delia       |07:16:27 | 14-10-2026| [1/1] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/deliasbrn/status/2110267934137224371
 --> [1]Delia menjalankan: Watch Anime
-[1]Delia       |09:06:24 | 13-10-2026| watch: semua video sudah completed
+[1]Delia       |07:16:28 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Delia       |07:16:28 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Delia       |07:16:29 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Delia       |07:16:34 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Delia       |07:16:36 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Delia       |07:16:41 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Delia       |07:16:42 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Delia menjalankan: Read Article
-[1]Delia       |09:06:25 | 13-10-2026| news: 24/24 artikel selesai dibaca
-[1]Delia       |09:06:26 | 13-10-2026| mint eligibility: {"userId":"1886502032175161344","youtube":{"url":"https://www.youtube.com/@deliasbrn","status":"submitted","revision":"5ac51880-888b-4206-bb9f-e83738be8347","submittedAt":1791680809,"reviewedAt":17916
-[1]Delia       |09:06:26 | 13-10-2026| news: semua artikel sudah dibaca
+[1]Delia       |07:16:43 | 14-10-2026| news: 24/25 artikel selesai dibaca
+[1]Delia       |07:16:44 | 14-10-2026| mint eligibility: {"userId":"1886502032175161344","youtube":{"url":"https://www.youtube.com/@deliasbrn","status":"submitted","revision":"5ac51880-888b-4206-bb9f-e83738be8347","submittedAt":1791680809,"reviewedAt":17916
+[1]Delia       |07:16:49 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
 --> [1]Delia menjalankan: Quiz Anime
-[1]Delia       |09:06:26 | 13-10-2026| quiz ep1: sudah dijawab
-[1]Delia       |09:06:26 | 13-10-2026| quiz ep2: sudah dijawab
-[1]Delia       |09:06:26 | 13-10-2026| quiz ep3: sudah dijawab
-[1]Delia       |09:06:26 | 13-10-2026| quiz ep4: sudah dijawab
-[1]Delia       |09:06:26 | 13-10-2026| quiz ep5: sudah dijawab
-[1]Delia       |09:06:26 | 13-10-2026| quiz ep6: sudah dijawab
+[1]Delia       |07:16:52 | 14-10-2026| quiz ep1: sudah dijawab
+[1]Delia       |07:16:52 | 14-10-2026| quiz ep2: sudah dijawab
+[1]Delia       |07:16:52 | 14-10-2026| quiz ep3: sudah dijawab
+[1]Delia       |07:16:52 | 14-10-2026| quiz ep4: sudah dijawab
+[1]Delia       |07:16:52 | 14-10-2026| quiz ep5: sudah dijawab
+[1]Delia       |07:16:52 | 14-10-2026| quiz ep6: sudah dijawab
 --> [1]Delia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Delia       |09:06:28 | 13-10-2026| music: kedua misi sudah tercapai, stop
-[1]Delia       |09:06:29 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Delia       |09:06:29 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Delia       |09:06:29 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Delia       |07:16:54 | 14-10-2026| music: kedua misi sudah tercapai, stop
+[1]Delia       |07:16:54 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Delia       |07:16:54 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Delia       |07:16:54 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Delia menjalankan: Claim Missions
-[1]Delia       |09:06:29 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Delia       |09:06:29 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Delia       |09:06:29 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Delia       |07:16:55 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Delia       |07:16:55 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Delia       |07:16:55 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Delia menjalankan: Check Eligibility
 
 --- eligibility [1]Delia ---
-  @deliasbrn | score=1080 rank=5750
-  tasks    [###################-] 73/77
+  @deliasbrn | score=1130 rank=5437
+  tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 24/24
+  artikel  [####################] 25/25
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Delia menjalankan: Read Manga
-[1]Delia       |09:06:34 | 13-10-2026| manga: 0/13 chapter belum completed
+[1]Delia       |07:16:58 | 14-10-2026| manga: 0/13 chapter belum completed
 --> [1]Delia menjalankan: Get Gift
-[1]Delia       |09:06:34 | 13-10-2026| gift: 0/3 belum diterima
+[1]Delia       |07:16:58 | 14-10-2026| gift: 1/4 belum diterima
+[1]Delia       |07:17:00 | 14-10-2026| gift [1/1] Silver Oshii: OK
 --> [1]Delia menjalankan: Setup Profile
-[1]Delia       |09:06:35 | 13-10-2026| profile: bio="https://x.com/deliasbrn" fav=mony rewardAt=1791797242
-[1]Delia       |09:06:35 | 13-10-2026| profile: bonus sudah diklaim, skip
+[1]Delia       |07:17:02 | 14-10-2026| profile: bio="https://x.com/deliasbrn" fav=mony rewardAt=1791797242
+[1]Delia       |07:17:02 | 14-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Delia menjalankan: Bind Wallet
-[1]Delia       |09:06:36 | 13-10-2026| wallet: sudah terikat CvzSDZnNSr... (solana)
+[1]Delia       |07:17:02 | 14-10-2026| wallet: sudah terikat CvzSDZnNSr... (solana)
 
 == RINGKASAN ==
-- Delia: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
+- Delia: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
