@@ -12,135 +12,56 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Delia =====
-[1]Delia       |09:48:39 | 21-10-2026| login OK @deliasbrn | score=1630 rank=4365
-[1]Delia       |09:48:39 | 21-10-2026| serverTime=2026-10-21T09:48:39.000Z local=2026-10-21T09:48:39.349Z
+[1]Delia       |08:58:33 | 22-10-2026| login OK @deliasbrn | score=1700 rank=4240
+[1]Delia       |08:58:33 | 22-10-2026| serverTime=2026-10-22T08:58:33.000Z local=2026-10-22T08:58:33.863Z
 --> [1]Delia menjalankan: Claim Daily
-[1]Delia       |09:48:40 | 21-10-2026| daily: OK +10 poin score=1640
---> [1]Delia menjalankan: Auto All Tasks (6 pending)
-[1]Delia       |09:48:42 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deliasbrn/status/2112843099693013049
-[1]Delia       |09:48:42 | 21-10-2026| delay 10s...
-[1]Delia       |09:48:55 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deliasbrn/status/2112843079741547286
-[1]Delia       |09:48:55 | 21-10-2026| delay 10s...
-[1]Delia       |09:49:07 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deliasbrn/status/2112843181676425300
-[1]Delia       |09:49:07 | 21-10-2026| delay 10s...
-[1]Delia       |09:49:20 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deliasbrn/status/2112843184017244726
-[1]Delia       |09:49:20 | 21-10-2026| delay 10s...
-[1]Delia       |09:49:33 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deliasbrn/status/2112843100977958454
-[1]Delia       |09:49:33 | 21-10-2026| delay 10s...
-[1]Delia       |09:49:45 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Delia       |09:49:45 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Delia       |09:49:47 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/deliasbrn/status/2112843476695080021
+[1]Delia       |08:58:35 | 22-10-2026| daily: OK +10 poin score=1710
+--> [1]Delia menjalankan: Auto All Tasks (8 pending)
+[1]Delia       |08:58:36 | 22-10-2026| [1/8] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deliasbrn/status/2113192903875383989
+[1]Delia       |08:58:36 | 22-10-2026| delay 10s...
+[1]Delia       |08:58:49 | 22-10-2026| [2/8] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deliasbrn/status/2113192706275577633
+[1]Delia       |08:58:49 | 22-10-2026| delay 10s...
+[1]Delia       |08:59:01 | 22-10-2026| [3/8] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deliasbrn/status/2113192880555085757
+[1]Delia       |08:59:01 | 22-10-2026| delay 10s...
+[1]Delia       |08:59:13 | 22-10-2026| [4/8] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deliasbrn/status/2113192913874081045
+[1]Delia       |08:59:13 | 22-10-2026| delay 10s...
+[1]Delia       |08:59:25 | 22-10-2026| [5/8] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deliasbrn/status/2113193233972624123
+[1]Delia       |08:59:25 | 22-10-2026| delay 10s...
+[1]Delia       |08:59:38 | 22-10-2026| [6/8] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deliasbrn/status/2113192945049590876
+[1]Delia       |08:59:38 | 22-10-2026| delay 10s...
+[1]Delia       |08:59:50 | 22-10-2026| [7/8] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deliasbrn/status/2113193302254617266
+[1]Delia       |08:59:50 | 22-10-2026| delay 10s...
+[1]Delia       |09:00:02 | 22-10-2026| [8/8] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deliasbrn/status/2113193306893164951
+[1]Delia       |09:00:02 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Delia       |09:00:03 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/deliasbrn/status/2113193122749065968
 --> [1]Delia menjalankan: Watch Anime
-[1]Delia       |09:49:48 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Delia       |09:49:48 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Delia       |09:49:49 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Delia       |09:49:56 | 21-10-2026| watch oshi-captains-hat: 5% (5.23/92.00s)
-[1]Delia       |09:50:02 | 21-10-2026| watch oshi-captains-hat: 11% (10.86/92.00s)
-[1]Delia       |09:50:08 | 21-10-2026| watch oshi-captains-hat: 17% (16.53/92.00s)
-[1]Delia       |09:50:15 | 21-10-2026| watch oshi-captains-hat: 24% (22.44/92.00s)
-[1]Delia       |09:50:21 | 21-10-2026| watch oshi-captains-hat: 30% (28.04/92.00s)
-[1]Delia       |09:50:28 | 21-10-2026| watch oshi-captains-hat: 36% (34.02/92.00s)
-[1]Delia       |09:50:34 | 21-10-2026| watch oshi-captains-hat: 42% (39.56/92.00s)
-[1]Delia       |09:50:40 | 21-10-2026| watch oshi-captains-hat: 49% (45.22/92.00s)
-[1]Delia       |09:50:46 | 21-10-2026| watch oshi-captains-hat: 55% (50.76/92.00s)
-[1]Delia       |09:50:52 | 21-10-2026| watch oshi-captains-hat: 61% (56.44/92.00s)
-[1]Delia       |09:50:59 | 21-10-2026| watch oshi-captains-hat: 67% (62.00/92.00s)
-[1]Delia       |09:51:05 | 21-10-2026| watch oshi-captains-hat: 73% (67.68/92.00s)
-[1]Delia       |09:51:11 | 21-10-2026| watch oshi-captains-hat: 79% (73.30/92.00s)
-[1]Delia       |09:51:18 | 21-10-2026| watch oshi-captains-hat: 85% (78.89/92.00s)
-[1]Delia       |09:51:25 | 21-10-2026| watch oshi-captains-hat: 92% (84.69/92.00s)
-[1]Delia       |09:51:25 | 21-10-2026| watch oshi-captains-hat: COMPLETED (84.69/92.00s)
-[1]Delia       |09:51:30 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Delia       |09:51:31 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Delia       |09:51:39 | 21-10-2026| watch oshi-rainbow-star: 6% (5.35/86.00s)
-[1]Delia       |09:51:45 | 21-10-2026| watch oshi-rainbow-star: 13% (11.64/86.00s)
-[1]Delia       |09:51:51 | 21-10-2026| watch oshi-rainbow-star: 20% (17.37/86.00s)
-[1]Delia       |09:51:58 | 21-10-2026| watch oshi-rainbow-star: 26% (23.04/86.00s)
-[1]Delia       |09:52:04 | 21-10-2026| watch oshi-rainbow-star: 33% (29.05/86.00s)
-[1]Delia       |09:52:10 | 21-10-2026| watch oshi-rainbow-star: 40% (34.62/86.00s)
-[1]Delia       |09:52:16 | 21-10-2026| watch oshi-rainbow-star: 46% (40.25/86.00s)
-[1]Delia       |09:52:23 | 21-10-2026| watch oshi-rainbow-star: 53% (45.80/86.00s)
-[1]Delia       |09:52:30 | 21-10-2026| watch oshi-rainbow-star: 60% (51.68/86.00s)
-[1]Delia       |09:52:36 | 21-10-2026| watch oshi-rainbow-star: 67% (57.84/86.00s)
-[1]Delia       |09:52:43 | 21-10-2026| watch oshi-rainbow-star: 73% (63.52/86.00s)
-[1]Delia       |09:52:49 | 21-10-2026| watch oshi-rainbow-star: 80% (69.59/86.00s)
-[1]Delia       |09:52:55 | 21-10-2026| watch oshi-rainbow-star: 87% (75.11/86.00s)
-[1]Delia       |09:53:02 | 21-10-2026| watch oshi-rainbow-star: 93% (80.73/86.00s)
-[1]Delia       |09:53:02 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (80.73/86.00s)
-[1]Delia       |09:53:07 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Delia       |09:53:09 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Delia       |09:53:15 | 21-10-2026| watch oshi-rainbow-lighthouse: 6% (5.34/87.00s)
-[1]Delia       |09:53:21 | 21-10-2026| watch oshi-rainbow-lighthouse: 12% (10.93/87.00s)
-[1]Delia       |09:53:28 | 21-10-2026| watch oshi-rainbow-lighthouse: 19% (16.61/87.00s)
-[1]Delia       |09:53:34 | 21-10-2026| watch oshi-rainbow-lighthouse: 25% (22.30/87.00s)
-[1]Delia       |09:53:40 | 21-10-2026| watch oshi-rainbow-lighthouse: 32% (28.00/87.00s)
-[1]Delia       |09:53:47 | 21-10-2026| watch oshi-rainbow-lighthouse: 38% (33.58/87.00s)
-[1]Delia       |09:53:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 45% (39.64/87.00s)
-[1]Delia       |09:54:00 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.25/87.00s)
-[1]Delia       |09:54:06 | 21-10-2026| watch oshi-rainbow-lighthouse: 58% (51.25/87.00s)
-[1]Delia       |09:54:12 | 21-10-2026| watch oshi-rainbow-lighthouse: 65% (56.94/87.00s)
-[1]Delia       |09:54:19 | 21-10-2026| watch oshi-rainbow-lighthouse: 71% (62.62/87.00s)
-[1]Delia       |09:54:25 | 21-10-2026| watch oshi-rainbow-lighthouse: 78% (68.28/87.00s)
-[1]Delia       |09:54:32 | 21-10-2026| watch oshi-rainbow-lighthouse: 85% (74.11/87.00s)
-[1]Delia       |09:54:38 | 21-10-2026| watch oshi-rainbow-lighthouse: 92% (80.21/87.00s)
-[1]Delia       |09:54:38 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (80.21/87.00s)
-[1]Delia       |09:54:43 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Delia       |09:54:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Delia       |09:54:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.24/181.00s)
-[1]Delia       |09:54:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (12.02/181.00s)
-[1]Delia       |09:55:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.85/181.00s)
-[1]Delia       |09:55:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (23.48/181.00s)
-[1]Delia       |09:55:18 | 21-10-2026| watch bakeru-ikesou-jan-mv: 16% (29.25/181.00s)
-[1]Delia       |09:55:24 | 21-10-2026| watch bakeru-ikesou-jan-mv: 19% (34.80/181.00s)
-[1]Delia       |09:55:30 | 21-10-2026| watch bakeru-ikesou-jan-mv: 22% (40.37/181.00s)
-[1]Delia       |09:55:37 | 21-10-2026| watch bakeru-ikesou-jan-mv: 25% (45.98/181.00s)
-[1]Delia       |09:55:43 | 21-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.69/181.00s)
-[1]Delia       |09:55:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 31% (57.25/181.00s)
-[1]Delia       |09:55:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.86/181.00s)
-[1]Delia       |09:56:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.54/181.00s)
-[1]Delia       |09:56:08 | 21-10-2026| watch bakeru-ikesou-jan-mv: 41% (74.26/181.00s)
-[1]Delia       |09:56:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 44% (79.81/181.00s)
-[1]Delia       |09:56:21 | 21-10-2026| watch bakeru-ikesou-jan-mv: 47% (85.67/181.00s)
-[1]Delia       |09:56:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 50% (91.51/181.00s)
-[1]Delia       |09:56:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 53% (97.61/181.00s)
-[1]Delia       |09:56:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 57% (103.30/181.00s)
-[1]Delia       |09:56:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 60% (108.89/181.00s)
-[1]Delia       |09:56:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 63% (114.94/181.00s)
-[1]Delia       |09:57:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 66% (120.59/181.00s)
-[1]Delia       |09:57:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 69% (126.42/181.00s)
-[1]Delia       |09:57:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 72% (132.01/181.00s)
-[1]Delia       |09:57:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.16/181.00s)
-[1]Delia       |09:57:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.73/181.00s)
-[1]Delia       |09:57:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.34/181.00s)
-[1]Delia       |09:57:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 86% (155.80/181.00s)
-[1]Delia       |09:57:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (161.60/181.00s)
-[1]Delia       |09:57:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 93% (168.42/181.00s)
-[1]Delia       |09:57:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (168.42/181.00s)
+[1]Delia       |09:00:04 | 22-10-2026| watch: semua video sudah completed
 --> [1]Delia menjalankan: Read Article
-[1]Delia       |09:57:57 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Delia       |09:57:58 | 21-10-2026| mint eligibility: {"userId":"1886502032175161344","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@deliasbrn","status":"submitted","revision":"5ac51880-888b-4206-bb9f-e83738be8347
-[1]Delia       |09:58:05 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Delia       |09:00:06 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Delia       |09:00:06 | 22-10-2026| mint eligibility: {"userId":"1886502032175161344","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@deliasbrn","status":"submitted","revision":"5ac51880-888b-4206-bb9f-e83738be8347
+[1]Delia       |09:00:13 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Delia       |09:00:21 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Delia menjalankan: Quiz Anime
-[1]Delia       |09:58:07 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Delia       |09:58:07 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Delia       |09:58:07 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Delia       |09:58:07 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Delia       |09:58:07 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Delia       |09:58:07 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Delia       |09:00:24 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Delia       |09:00:24 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Delia       |09:00:24 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Delia       |09:00:24 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Delia       |09:00:24 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Delia       |09:00:24 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Delia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Delia       |09:58:10 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Delia       |09:58:11 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Delia       |09:58:11 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Delia       |09:58:11 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Delia       |09:00:26 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Delia       |09:00:26 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Delia       |09:00:26 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Delia       |09:00:26 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Delia menjalankan: Claim Missions
-[1]Delia       |09:58:11 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Delia       |09:58:11 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Delia       |09:58:11 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Delia       |09:00:27 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Delia       |09:00:27 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Delia       |09:00:27 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Delia menjalankan: Check Eligibility
 
 --- eligibility [1]Delia ---
-  @deliasbrn | score=1630 rank=4365
-  tasks    [###################-] 74/80
+  @deliasbrn | score=1700 rank=4240
+  tasks    [##################--] 77/85
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -151,14 +72,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Delia menjalankan: Read Manga
-[1]Delia       |09:58:15 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Delia       |09:00:31 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Delia menjalankan: Get Gift
-[1]Delia       |09:58:16 | 21-10-2026| gift: 0/4 belum diterima
+[1]Delia       |09:00:32 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Delia menjalankan: Setup Profile
-[1]Delia       |09:58:17 | 21-10-2026| profile: bio="https://x.com/deliasbrn" fav=mony rewardAt=1791797242
-[1]Delia       |09:58:17 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Delia       |09:00:32 | 22-10-2026| profile: bio="https://x.com/deliasbrn" fav=mony rewardAt=1791797242
+[1]Delia       |09:00:32 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Delia menjalankan: Bind Wallet
-[1]Delia       |09:58:17 | 21-10-2026| wallet: sudah terikat CvzSDZnNSr... (solana)
+[1]Delia       |09:00:33 | 22-10-2026| wallet: sudah terikat CvzSDZnNSr... (solana)
 
 == RINGKASAN ==
-- Delia: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Delia: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
